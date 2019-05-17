@@ -1,3 +1,8 @@
+/*
+Guilherme Pereira dos Santos 	9911430
+Rodrigo Rossi dos Santos		9844828
+*/
+
 #include <stdio.h>
 #include <sys/socket.h>
 #include <unistd.h>
